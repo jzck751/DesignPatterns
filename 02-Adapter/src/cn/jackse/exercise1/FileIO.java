@@ -1,4 +1,4 @@
-package cn.jackse.exercise;
+package cn.jackse.exercise1;
 
 import java.io.IOException;
 
